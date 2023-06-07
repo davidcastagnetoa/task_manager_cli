@@ -1,4 +1,3 @@
-
 # Task Manager Application
 
 This is a command-line interface (CLI) application developed in NodeJS that allows users to create, mark, unmark, and delete tasks. The tasks entered by the user are saved in a .json file located in the database folder. The application is based on Fernando Herrera's Node course on Udemy.
